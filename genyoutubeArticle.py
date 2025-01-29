@@ -4,7 +4,7 @@ from transformers import GPT2LMHeadModel, GPT2Tokenizer
 from googleapiclient.discovery import build
 
 # Define API key (replace with your own API key)
-API_KEY = 'AIzaSyBhFzwf9cU7q-RcH23kEXDtcgZ4s56J7H4'  # Replace with your actual YouTube API Key
+API_KEY = '[APIKEY]'  # Replace with your actual YouTube API Key
 
 # Channel ID (tanmayteaches) from the provided YouTube URL
 CHANNEL_ID = 'UCqufIGIYauviVaKyJUzKvQw'
